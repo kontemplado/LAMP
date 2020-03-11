@@ -9,3 +9,6 @@ LAMP Install and Uninstall Script
 ## Uninstall
 1. Copy script by using `wget https://raw.githubusercontent.com/saaiful/LAMP/master/uninstall.sh`
 2. Run using `sudo bash uninstall.sh`
+
+## Hosters
+<a href="https://go.kontemplado.com/5lo7z">Click here</a> for choices Hosters.
